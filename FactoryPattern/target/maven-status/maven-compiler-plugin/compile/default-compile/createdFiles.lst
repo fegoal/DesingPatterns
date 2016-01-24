@@ -1,0 +1,5 @@
+com/propia/ejemplos/desingpatterns/factory/MotorFactory.class
+com/propia/ejemplos/desingpatterns/factory/Main.class
+com/propia/ejemplos/desingpatterns/factory/IMotor.class
+com/propia/ejemplos/desingpatterns/factory/MotorDiesel.class
+com/propia/ejemplos/desingpatterns/factory/MotorGasolina.class
