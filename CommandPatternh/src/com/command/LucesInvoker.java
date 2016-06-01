@@ -1,5 +1,11 @@
 package com.command;
 
+
+/**
+ * El invoker recibira peticiones de commandos sobre los receivers.
+ * @author a591792
+ *
+ */
 public class LucesInvoker {
 	
 	Command command;
